@@ -1,0 +1,10 @@
+
+7th Advisory,                   1,      Knuepfer, Jennifer,    2111,  Q1, Q2, Q3, Q4
+7th Science,                    2,      Janssen, Jeff,         2113,  Q1, Q2, Q3, Q4
+7th Engineering Explorations,   3a-3b,  Black, Martin,         2101,  Q2
+7th Social Studies,             4,      Deichmueller, Jeanne,  2120,  Q1, Q2, Q3, Q4
+Middle School Spanish,          5a-5b,  Wieczorek, Sarah,      1328,  Q1, Q2, Q3, Q4
+Lunch,                          6a-6b,  Staff,                 1601,  Q1, Q2, Q3, Q4
+Physical Education,             7,      Price, Anna,           GYM,   Q1, Q2, Q4
+8th Mathematics	                8-9a,   Knuepfer, Jennifer,    2111,  Q1, Q2, Q3, Q4
+8th Grade Language Arts,        9b-10,  Cooper, Matt,          2116,  Q1, Q2, Q3, Q4

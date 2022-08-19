@@ -1,0 +1,56 @@
+        a {
+            display: flex;
+            color: white;
+            text-decoration: none;
+        }
+        nav div {
+            padding: 6px;
+        }
+        nav div:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        .connor:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        .oliver:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        body {
+            background-color: #202124; 
+            color: white;
+            font-family: arial,sans-serif;
+        }
+        nav {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            align-content: center;
+            justify-content: flex-end;
+            align-items: center;  
+        }
+        .logo {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            align-content: center;
+            align-items: center;
+            justify-content: center;
+            font-size: 150px;
+            margin-top: 200px;
+            cursor: default;
+        }
+        footer {
+            display: flex;
+            position: fixed;
+            bottom: 0;
+            font-size: 50px;
+        }    
+        .build {
+            color: orange;
+        }
+        .craft {
+            color: blue;
+        }

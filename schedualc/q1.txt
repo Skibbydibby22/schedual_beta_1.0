@@ -1,0 +1,10 @@
+
+7th Advisory,                   1,      Knuepfer, Jennifer,    2111
+7th Science,                    2,      Janssen, Jeff,         2113
+7th Family & Consumer Science,  3a-3b,  Sager, Courtney	       2301
+7th Social Studies,             4,      Deichmueller, Jeanne,  2120
+Middle School Spanish,          5a-5b,  Wieczorek, Sarah,      1328
+Lunch,                          6a-6b,  Staff,                 1601
+Physical Education,             7,      Price, Anna,           GYM
+8th Mathematics	                8-9a,   Knuepfer, Jennifer,    2111
+8th Grade Language Arts,        9b-10,  Cooper, Matt,          2116

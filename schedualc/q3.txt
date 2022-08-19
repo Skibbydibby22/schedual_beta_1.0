@@ -1,0 +1,10 @@
+
+7th Advisory,                   1,      Knuepfer, Jennifer,    2111,  Q1, Q2, Q3, Q4
+7th Science,                    2,      Janssen, Jeff,         2113,  Q1, Q2, Q3, Q4
+7th Elements of Theater,        3a-3b,  Eaton, Tammy,          2325,  Q3
+7th Social Studies,             4,      Deichmueller, Jeanne,  2120,  Q1, Q2, Q3, Q4
+Middle School Spanish,          5a-5b,  Wieczorek, Sarah,      1328,  Q1, Q2, Q3, Q4
+Lunch,                          6a-6b,  Staff,                 1601,  Q1, Q2, Q3, Q4
+Health,                         7,      Price, Anna,           2328,  Q3
+8th Mathematics	                8-9a,   Knuepfer, Jennifer,    2111,  Q1, Q2, Q3, Q4
+8th Grade Language Arts,        9b-10,  Cooper, Matt,          2116,  Q1, Q2, Q3, Q4
